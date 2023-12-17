@@ -1,6 +1,7 @@
 # Gym App Backend - Spring Boot
 
 Welcome to the Gym App Backend! This Spring Boot application serves as the backend for the Gym Management System. It handles bookings, memberships, classes, and appointments, allowing users to make payments through the Stripe platform.
+Connected to Front-end: https://github.com/corgan0746/gym-frontend-angular
 
 ## Overview
 
